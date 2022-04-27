@@ -1,3 +1,7 @@
+## Project Preview
+
+You can find a live preview of the webshop hosted on Vercel here: [https://nextjs-sanity-ecommerce-beta.vercel.app/]
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
